@@ -1,0 +1,14 @@
+layout_spectrum: 0.007879397366195917
+typography_spectrum: 0.1964291105978191
+color:
+  brandStrength: 0.5700195601675659
+  lightness: 0.28609255980700254
+  saturation: 0.30607928917743266
+  rhythmicContrast: 0.6298913229256868
+  brandColors:
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
+name: new world
